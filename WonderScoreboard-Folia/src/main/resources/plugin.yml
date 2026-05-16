@@ -1,0 +1,8 @@
+name: WonderScoreboard-Folia
+version: 1.0.0
+main: ryzen23.WonderScoreboard
+api-version: '1.21'
+folia-supported: true
+author: ryzen23
+description: Minimal packet-based scoreboard for Folia.
+softdepend: [PlaceholderAPI]

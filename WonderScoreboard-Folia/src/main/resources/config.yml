@@ -1,0 +1,18 @@
+scores:
+  hidden: false
+
+display:
+  title:
+    frames:
+      - ''
+    interval: 1000
+
+  line-1:
+    frames:
+      - ''
+    interval: 20
+
+  line-2:
+    frames:
+      - ' '
+    interval: 1000
